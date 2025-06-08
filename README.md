@@ -1,4 +1,5 @@
 🧠 Project Summary: VERA – Virtual Evaluator for Returns & Assets
+
 I'm building a modular AI-powered financial assistant named VERA to help manage my entire financial life. VERA will handle everything from budgeting and retirement planning to investments, risk analysis, and financial goal tracking.
 ________________________________________
 🌱 Core Responsibilities of VERA
